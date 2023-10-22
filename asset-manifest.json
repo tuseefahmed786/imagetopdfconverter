@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/imagetopdfconverter/static/css/main.7478235a.css",
+    "main.js": "/imagetopdfconverter/static/js/main.78cf74cb.js",
+    "static/js/703.f47f8cde.chunk.js": "/imagetopdfconverter/static/js/703.f47f8cde.chunk.js",
+    "static/js/598.28b267d2.chunk.js": "/imagetopdfconverter/static/js/598.28b267d2.chunk.js",
+    "static/js/787.e3d2e7e8.chunk.js": "/imagetopdfconverter/static/js/787.e3d2e7e8.chunk.js",
+    "index.html": "/imagetopdfconverter/index.html",
+    "main.7478235a.css.map": "/imagetopdfconverter/static/css/main.7478235a.css.map",
+    "main.78cf74cb.js.map": "/imagetopdfconverter/static/js/main.78cf74cb.js.map",
+    "703.f47f8cde.chunk.js.map": "/imagetopdfconverter/static/js/703.f47f8cde.chunk.js.map",
+    "598.28b267d2.chunk.js.map": "/imagetopdfconverter/static/js/598.28b267d2.chunk.js.map",
+    "787.e3d2e7e8.chunk.js.map": "/imagetopdfconverter/static/js/787.e3d2e7e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7478235a.css",
+    "static/js/main.78cf74cb.js"
+  ]
+}
