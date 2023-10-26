@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "/imagetopdfconverter/static/css/main.078065f6.css",
-    "main.js": "/imagetopdfconverter/static/js/main.d191db96.js",
+    "main.css": "/imagetopdfconverter/static/css/main.7c120458.css",
+    "main.js": "/imagetopdfconverter/static/js/main.7f1efa6e.js",
     "static/js/703.f47f8cde.chunk.js": "/imagetopdfconverter/static/js/703.f47f8cde.chunk.js",
-    "static/js/598.28b267d2.chunk.js": "/imagetopdfconverter/static/js/598.28b267d2.chunk.js",
+    "static/js/513.5bdf06bc.chunk.js": "/imagetopdfconverter/static/js/513.5bdf06bc.chunk.js",
     "static/js/787.e3d2e7e8.chunk.js": "/imagetopdfconverter/static/js/787.e3d2e7e8.chunk.js",
+    "static/media/user.png": "/imagetopdfconverter/static/media/user.d325f7e0c50db218146c.png",
     "index.html": "/imagetopdfconverter/index.html",
-    "main.078065f6.css.map": "/imagetopdfconverter/static/css/main.078065f6.css.map",
-    "main.d191db96.js.map": "/imagetopdfconverter/static/js/main.d191db96.js.map",
+    "static/media/Adobe_Corporate_Horizontal_Red_HEX.svg": "/imagetopdfconverter/static/media/Adobe_Corporate_Horizontal_Red_HEX.c2a69d8a1eb54c1466bbedca93ca5878.svg",
+    "main.7c120458.css.map": "/imagetopdfconverter/static/css/main.7c120458.css.map",
+    "main.7f1efa6e.js.map": "/imagetopdfconverter/static/js/main.7f1efa6e.js.map",
     "703.f47f8cde.chunk.js.map": "/imagetopdfconverter/static/js/703.f47f8cde.chunk.js.map",
-    "598.28b267d2.chunk.js.map": "/imagetopdfconverter/static/js/598.28b267d2.chunk.js.map",
+    "513.5bdf06bc.chunk.js.map": "/imagetopdfconverter/static/js/513.5bdf06bc.chunk.js.map",
     "787.e3d2e7e8.chunk.js.map": "/imagetopdfconverter/static/js/787.e3d2e7e8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.078065f6.css",
-    "static/js/main.d191db96.js"
+    "static/css/main.7c120458.css",
+    "static/js/main.7f1efa6e.js"
   ]
 }
