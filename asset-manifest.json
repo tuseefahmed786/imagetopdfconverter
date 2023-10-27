@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/imagetopdfconverter/static/css/main.b66e06a1.css",
-    "main.js": "/imagetopdfconverter/static/js/main.32625afc.js",
+    "main.js": "/imagetopdfconverter/static/js/main.a682ca94.js",
     "static/js/703.f47f8cde.chunk.js": "/imagetopdfconverter/static/js/703.f47f8cde.chunk.js",
     "static/js/513.5bdf06bc.chunk.js": "/imagetopdfconverter/static/js/513.5bdf06bc.chunk.js",
     "static/js/787.e3d2e7e8.chunk.js": "/imagetopdfconverter/static/js/787.e3d2e7e8.chunk.js",
@@ -9,13 +9,13 @@
     "index.html": "/imagetopdfconverter/index.html",
     "static/media/Adobe_Corporate_Horizontal_Red_HEX.svg": "/imagetopdfconverter/static/media/Adobe_Corporate_Horizontal_Red_HEX.c2a69d8a1eb54c1466bbedca93ca5878.svg",
     "main.b66e06a1.css.map": "/imagetopdfconverter/static/css/main.b66e06a1.css.map",
-    "main.32625afc.js.map": "/imagetopdfconverter/static/js/main.32625afc.js.map",
+    "main.a682ca94.js.map": "/imagetopdfconverter/static/js/main.a682ca94.js.map",
     "703.f47f8cde.chunk.js.map": "/imagetopdfconverter/static/js/703.f47f8cde.chunk.js.map",
     "513.5bdf06bc.chunk.js.map": "/imagetopdfconverter/static/js/513.5bdf06bc.chunk.js.map",
     "787.e3d2e7e8.chunk.js.map": "/imagetopdfconverter/static/js/787.e3d2e7e8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b66e06a1.css",
-    "static/js/main.32625afc.js"
+    "static/js/main.a682ca94.js"
   ]
 }
